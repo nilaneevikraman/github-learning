@@ -15,3 +15,5 @@ I'm a student learning programming, data science, and machine learning.
 - Machine Learning
 
 This repository is my first step into using GitHub!
+
+I am learning Git step by step! 🚀
